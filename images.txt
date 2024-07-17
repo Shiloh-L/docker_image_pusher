@@ -2,3 +2,4 @@ xiaoyaliu/alist:hostmode
 cloudflare/cloudflared:latest
 dreamacro/clash:latest
 centralx/clash
+haishanh/yacd
